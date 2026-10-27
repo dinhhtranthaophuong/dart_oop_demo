@@ -1,5 +1,7 @@
 mixin LogMixin {
-  void logAction(String action, String objectName) {
-    print('[LOG - ${DateTime.now().toIso8601String()}] $action: $objectName');
+  void log(String message) {
+    final time = DateTime.now().toIso8601String();
+    // ignore: avoid_print
+    print('[$time] [$runtimeType] $message');
   }
 }
