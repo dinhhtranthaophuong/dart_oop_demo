@@ -103,6 +103,6 @@ Trong cả ba trường hợp ứng dụng **không bị crash**; lỗi được
 
 ## Tác giả
 
-- Họ tên: _<"py">_
+- Họ tên: _<py>_
 - Trường: Đại học Bách khoa – Đại học Đà Nẵng
 - Ngành: Kỹ thuật máy tính
